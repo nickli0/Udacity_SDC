@@ -108,7 +108,7 @@ Then I repeated this process on track two in order to get more data points.
 
 To augment the data sat, I also flipped images and angles thinking that this would furthuer provide more acuracy on steering angles especially when the car is at big curving road. For example, here is an image that has then been flipped:
 
-![](./writeup_report_images/5.PNG)
+![](./writeup_report_images/5.png)
 
 After the collection process, I had 8036 (24,108 in center/left/right) number of data points. I then preprocessed this data by removing the biased zero data point which causing huge augmented problems.
 

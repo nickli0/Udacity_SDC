@@ -11,28 +11,28 @@
 
 
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-19e26a1cefb5f1e92203a9468134dbf46b5a5308aeeeee09c96b32fec8c8b044.css" integrity="sha256-GeJqHO+18ekiA6lGgTTb9GtaUwiu7u4JyWsy/sjIsEQ=" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-f886e4c2d166bd2750de4f941f1f14b0658f60e7cf5a680a5926b1c2fb1f5252.css" integrity="sha256-+IbkwtFmvSdQ3k+UHx8UsGWPYOfPWmgKWSaxwvsfUlI=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-d514f0f4cce26123a0bd5717d033adc4138d2033750224d5716f9e939d3b3aa6.css" integrity="sha256-1RTw9MziYSOgvVcX0DOtxBONIDN1AiTVcW+ek507OqY=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-efb85baef6e21d2cda60d33c4523edb11c7fad97c29bd4ded80b8b5412bd77a6.css" integrity="sha256-77hbrvbiHSzaYNM8RSPtsRx/rZfCm9Te2AuLVBK9d6Y=" media="all" rel="stylesheet" />
   
   
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-c47804daf40159016fecc8d259abd34792c6e416b16d84c5268895fbdfbefd5e.css" integrity="sha256-xHgE2vQBWQFv7MjSWavTR5LG5BaxbYTFJoiV+9++/V4=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-b29e324b8fafaead965049ef224818ef0dccc7384b5cfcad56a56a89c33a9438.css" integrity="sha256-sp4yS4+vrq2WUEnvIkgY7w3MxzhLXPytVqVqicM6lDg=" media="all" rel="stylesheet" />
   
 
   <meta name="viewport" content="width=device-width">
   
-  <title>CarND-Behavioral-Cloning/README.md at master · SamSamskies/CarND-Behavioral-Cloning · GitHub</title>
+  <title>CarND-Behavioral-Cloning-P3/README.md at master · udacity/CarND-Behavioral-Cloning-P3 · GitHub</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars0.githubusercontent.com/u/3655410?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="SamSamskies/CarND-Behavioral-Cloning" property="og:title" /><meta content="https://github.com/SamSamskies/CarND-Behavioral-Cloning" property="og:url" /><meta content="CarND-Behavioral-Cloning - Teaches a car how to drive autonomously using deep learning" property="og:description" />
+    <meta content="https://avatars3.githubusercontent.com/u/1916665?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="udacity/CarND-Behavioral-Cloning-P3" property="og:title" /><meta content="https://github.com/udacity/CarND-Behavioral-Cloning-P3" property="og:url" /><meta content="CarND-Behavioral-Cloning-P3 - Starting files for the Udacity CarND Behavioral Cloning Project" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="DE42:23AFA:C5B0F7:13BCAB8:58C8E701" data-pjax-transient>
+  <meta name="request-id" content="E545:23AFD:24DDEAA:3AC91AE:58CA124C" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="DE42:23AFA:C5B0F7:13BCAB8:58C8E701" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="E545:23AFD:24DDEAA:3AC91AE:58CA124C" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,23 +56,23 @@
   <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="M2RmODg5MTcyOGE1MTIyNjU5MTAyM2JkMzk1NGFlNzczM2UwMWJhNjlmYjU2YjE3NDIwZWIzMTRkZGNjMWQ0N3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMTk3LjIzNS4xNTMiLCJyZXF1ZXN0X2lkIjoiREU0MjoyM0FGQTpDNUIwRjc6MTNCQ0FCODo1OEM4RTcwMSIsInRpbWVzdGFtcCI6MTQ4OTU2MTM0NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="M2Q4MDhkMjYxNDQxOGM5ZThhZjc1ZGM5YzQ4NjE5MDkyOWMzNGJlOGYyNTMxOGFjMGU4MzBiNzUxYzQzZDFjY3x7InJlbW90ZV9hZGRyZXNzIjoiOTguMTk3LjIzNS4xNTMiLCJyZXF1ZXN0X2lkIjoiRTU0NToyM0FGRDoyNERERUFBOjNBQzkxQUU6NThDQTEyNEMiLCJ0aW1lc3RhbXAiOjE0ODk2Mzc5NzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
 
-  <meta name="html-safe-nonce" content="662547ef7de654fe7b4271fd2d50825c50eb4630">
+  <meta name="html-safe-nonce" content="78a39fb8b154bc9f5764efd92e816893be9bfcf5">
 
-  <meta http-equiv="x-pjax-version" content="326a5dc434eec6b1b698b94bb3fdcb8e">
+  <meta http-equiv="x-pjax-version" content="1a3401a3ceaf57f4c7e14987c8a04358">
   
 
     
-  <meta name="description" content="CarND-Behavioral-Cloning - Teaches a car how to drive autonomously using deep learning">
-  <meta name="go-import" content="github.com/SamSamskies/CarND-Behavioral-Cloning git https://github.com/SamSamskies/CarND-Behavioral-Cloning.git">
+  <meta name="description" content="CarND-Behavioral-Cloning-P3 - Starting files for the Udacity CarND Behavioral Cloning Project">
+  <meta name="go-import" content="github.com/udacity/CarND-Behavioral-Cloning-P3 git https://github.com/udacity/CarND-Behavioral-Cloning-P3.git">
 
-  <meta content="3655410" name="octolytics-dimension-user_id" /><meta content="SamSamskies" name="octolytics-dimension-user_login" /><meta content="79668653" name="octolytics-dimension-repository_id" /><meta content="SamSamskies/CarND-Behavioral-Cloning" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="79668653" name="octolytics-dimension-repository_network_root_id" /><meta content="SamSamskies/CarND-Behavioral-Cloning" name="octolytics-dimension-repository_network_root_nwo" />
-      <link href="https://github.com/SamSamskies/CarND-Behavioral-Cloning/commits/master.atom" rel="alternate" title="Recent Commits to CarND-Behavioral-Cloning:master" type="application/atom+xml">
+  <meta content="1916665" name="octolytics-dimension-user_id" /><meta content="udacity" name="octolytics-dimension-user_login" /><meta content="78474167" name="octolytics-dimension-repository_id" /><meta content="udacity/CarND-Behavioral-Cloning-P3" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="78474167" name="octolytics-dimension-repository_network_root_id" /><meta content="udacity/CarND-Behavioral-Cloning-P3" name="octolytics-dimension-repository_network_root_nwo" />
+      <link href="https://github.com/udacity/CarND-Behavioral-Cloning-P3/commits/master.atom" rel="alternate" title="Recent Commits to CarND-Behavioral-Cloning-P3:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/SamSamskies/CarND-Behavioral-Cloning/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -124,7 +124,7 @@
 
       <div class="site-header-actions">
           <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/SamSamskies/CarND-Behavioral-Cloning/search" class="js-site-search-form" data-scoped-search-url="/SamSamskies/CarND-Behavioral-Cloning/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/search" class="js-site-search-form" data-scoped-search-url="/udacity/CarND-Behavioral-Cloning-P3/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
       <div class="header-search-scope">This repository</div>
       <input type="text"
@@ -140,7 +140,7 @@
 </form></div>
 
 
-          <a class="text-bold site-header-link" href="/login?return_to=%2FSamSamskies%2FCarND-Behavioral-Cloning%2Fblob%2Fmaster%2FREADME.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="text-bold site-header-link" href="/login?return_to=%2Fudacity%2FCarND-Behavioral-Cloning-P3%2Fblob%2Fmaster%2FREADME.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
             <span class="text-gray">or</span>
             <a class="text-bold site-header-link" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
       </div>
@@ -164,60 +164,61 @@
         
 
 
+
 <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
   <div class="container repohead-details-container">
 
 
     <ul class="pagehead-actions">
   <li>
-      <a href="/login?return_to=%2FSamSamskies%2FCarND-Behavioral-Cloning"
+      <a href="/login?return_to=%2Fudacity%2FCarND-Behavioral-Cloning-P3"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to watch a repository" rel="nofollow">
     <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
   </a>
-  <a class="social-count" href="/SamSamskies/CarND-Behavioral-Cloning/watchers"
-     aria-label="1 user is watching this repository">
-    1
+  <a class="social-count" href="/udacity/CarND-Behavioral-Cloning-P3/watchers"
+     aria-label="6 users are watching this repository">
+    6
   </a>
 
   </li>
 
   <li>
-      <a href="/login?return_to=%2FSamSamskies%2FCarND-Behavioral-Cloning"
+      <a href="/login?return_to=%2Fudacity%2FCarND-Behavioral-Cloning-P3"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to star a repository" rel="nofollow">
     <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
     Star
   </a>
 
-    <a class="social-count js-social-count" href="/SamSamskies/CarND-Behavioral-Cloning/stargazers"
-      aria-label="0 users starred this repository">
-      0
+    <a class="social-count js-social-count" href="/udacity/CarND-Behavioral-Cloning-P3/stargazers"
+      aria-label="56 users starred this repository">
+      56
     </a>
 
   </li>
 
   <li>
-      <a href="/login?return_to=%2FSamSamskies%2FCarND-Behavioral-Cloning"
+      <a href="/login?return_to=%2Fudacity%2FCarND-Behavioral-Cloning-P3"
         class="btn btn-sm btn-with-count tooltipped tooltipped-n"
         aria-label="You must be signed in to fork a repository" rel="nofollow">
         <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
       </a>
 
-    <a href="/SamSamskies/CarND-Behavioral-Cloning/network" class="social-count"
-       aria-label="0 users forked this repository">
-      0
+    <a href="/udacity/CarND-Behavioral-Cloning-P3/network" class="social-count"
+       aria-label="239 users forked this repository">
+      239
     </a>
   </li>
 </ul>
 
     <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a href="/SamSamskies" class="url fn" rel="author">SamSamskies</a></span><!--
+  <span class="author" itemprop="author"><a href="/udacity" class="url fn" rel="author">udacity</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/SamSamskies/CarND-Behavioral-Cloning" data-pjax="#js-repo-pjax-container">CarND-Behavioral-Cloning</a></strong>
+--><strong itemprop="name"><a href="/udacity/CarND-Behavioral-Cloning-P3" data-pjax="#js-repo-pjax-container">CarND-Behavioral-Cloning-P3</a></strong>
 
 </h1>
 
@@ -231,40 +232,40 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/SamSamskies/CarND-Behavioral-Cloning" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /SamSamskies/CarND-Behavioral-Cloning" itemprop="url">
+    <a href="/udacity/CarND-Behavioral-Cloning-P3" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /udacity/CarND-Behavioral-Cloning-P3" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a href="/SamSamskies/CarND-Behavioral-Cloning/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /SamSamskies/CarND-Behavioral-Cloning/issues" itemprop="url">
+      <a href="/udacity/CarND-Behavioral-Cloning-P3/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /udacity/CarND-Behavioral-Cloning-P3/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="counter">0</span>
+        <span class="counter">1</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/SamSamskies/CarND-Behavioral-Cloning/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /SamSamskies/CarND-Behavioral-Cloning/pulls" itemprop="url">
+    <a href="/udacity/CarND-Behavioral-Cloning-P3/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /udacity/CarND-Behavioral-Cloning-P3/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-  <a href="/SamSamskies/CarND-Behavioral-Cloning/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /SamSamskies/CarND-Behavioral-Cloning/projects">
+  <a href="/udacity/CarND-Behavioral-Cloning-P3/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /udacity/CarND-Behavioral-Cloning-P3/projects">
     <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
     Projects
     <span class="counter">0</span>
 </a>
 
 
-  <a href="/SamSamskies/CarND-Behavioral-Cloning/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /SamSamskies/CarND-Behavioral-Cloning/pulse">
+  <a href="/udacity/CarND-Behavioral-Cloning-P3/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /udacity/CarND-Behavioral-Cloning-P3/pulse">
     <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
     Pulse
 </a>
-  <a href="/SamSamskies/CarND-Behavioral-Cloning/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /SamSamskies/CarND-Behavioral-Cloning/graphs">
+  <a href="/udacity/CarND-Behavioral-Cloning-P3/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /udacity/CarND-Behavioral-Cloning-P3/graphs">
     <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Graphs
 </a>
@@ -279,9 +280,9 @@
 
     
 
-<a href="/SamSamskies/CarND-Behavioral-Cloning/blob/2328d92ea6c879483d890a2e5881ed83ad29965e/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/udacity/CarND-Behavioral-Cloning-P3/blob/da5df48f4b14bb8aa98156879ce301c63f759096/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:f916cdd38eef477ff6ec986f35858012 -->
+<!-- blob contrib key: blob_contributors:v21:4bb1be55dc9b0473d4e4b2b0119ccbaf -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -323,7 +324,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/SamSamskies/CarND-Behavioral-Cloning/blob/master/README.md"
+               href="/udacity/CarND-Behavioral-Cloning-P3/blob/master/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -351,7 +352,7 @@
 </div>
 
   <div class="BtnGroup float-right">
-    <a href="/SamSamskies/CarND-Behavioral-Cloning/find/master"
+    <a href="/udacity/CarND-Behavioral-Cloning-P3/find/master"
           class="js-pjax-capture-input btn btn-sm BtnGroup-item"
           data-pjax
           data-hotkey="t">
@@ -360,38 +361,55 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/SamSamskies/CarND-Behavioral-Cloning"><span>CarND-Behavioral-Cloning</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/udacity/CarND-Behavioral-Cloning-P3"><span>CarND-Behavioral-Cloning-P3</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/SamSamskies/CarND-Behavioral-Cloning/commit/9193d7bce92bd53c44eb9e958c0e1d4218663daa" data-pjax>
-          9193d7b
+        <a class="commit-tease-sha" href="/udacity/CarND-Behavioral-Cloning-P3/commit/da5df48f4b14bb8aa98156879ce301c63f759096" data-pjax>
+          da5df48
         </a>
-        <relative-time datetime="2017-02-12T04:23:21Z">Feb 11, 2017</relative-time>
+        <relative-time datetime="2017-03-05T19:57:10Z">Mar 5, 2017</relative-time>
       </span>
       <div>
-        <img alt="@SamSamskies" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/3655410?v=3&amp;s=40" width="20" />
-        <a href="/SamSamskies" class="user-mention" rel="author">SamSamskies</a>
-          <a href="/SamSamskies/CarND-Behavioral-Cloning/commit/9193d7bce92bd53c44eb9e958c0e1d4218663daa" class="message" data-pjax="true" title="Fill out README with info on how to get started">Fill out README with info on how to get started</a>
+        <img alt="@dsilver829" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/587295?v=3&amp;s=40" width="20" />
+        <a href="/dsilver829" class="user-mention" rel="contributor">dsilver829</a>
+          <a href="/udacity/CarND-Behavioral-Cloning-P3/commit/da5df48f4b14bb8aa98156879ce301c63f759096" class="message" data-pjax="true" title="remove project numbering">remove project numbering</a>
       </div>
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
+        <strong>4</strong>
+         contributors
       </button>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="domluna" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/README.md?author=domluna"><img alt="@domluna" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/1907223?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="andrewpaster" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/README.md?author=andrewpaster"><img alt="@andrewpaster" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/4804880?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="dsilver829" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/README.md?author=dsilver829"><img alt="@dsilver829" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/587295?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="awbrown90" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/README.md?author=awbrown90"><img alt="@awbrown90" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/14296202?v=3&amp;s=40" width="20" /> </a>
+
+
     </div>
 
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@SamSamskies" height="24" src="https://avatars0.githubusercontent.com/u/3655410?v=3&amp;s=48" width="24" />
-            <a href="/SamSamskies">SamSamskies</a>
+            <img alt="@domluna" height="24" src="https://avatars2.githubusercontent.com/u/1907223?v=3&amp;s=48" width="24" />
+            <a href="/domluna">domluna</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@andrewpaster" height="24" src="https://avatars0.githubusercontent.com/u/4804880?v=3&amp;s=48" width="24" />
+            <a href="/andrewpaster">andrewpaster</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@dsilver829" height="24" src="https://avatars1.githubusercontent.com/u/587295?v=3&amp;s=48" width="24" />
+            <a href="/dsilver829">dsilver829</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@awbrown90" height="24" src="https://avatars2.githubusercontent.com/u/14296202?v=3&amp;s=48" width="24" />
+            <a href="/awbrown90">awbrown90</a>
           </li>
       </ul>
     </div>
@@ -403,9 +421,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/SamSamskies/CarND-Behavioral-Cloning/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/SamSamskies/CarND-Behavioral-Cloning/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/SamSamskies/CarND-Behavioral-Cloning/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/udacity/CarND-Behavioral-Cloning-P3/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/udacity/CarND-Behavioral-Cloning-P3/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -426,42 +444,91 @@
   </div>
 
   <div class="file-info">
-      21 lines (15 sloc)
+      119 lines (81 sloc)
       <span class="file-info-divider"></span>
-    950 Bytes
+    5.98 KB
   </div>
 </div>
 
   
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-behavioral-cloning-project" class="anchor" href="#behavioral-cloning-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Behavioral Cloning Project</h1>
-<p>Click the image below to check out a YouTube video of my car driving autonomously.</p>
-<p><a href="https://www.youtube.com/watch?v=nb4RIAWXRU0"><img src="https://camo.githubusercontent.com/d5dec84ee7dd560ce01f2e4fcc4e860c8b1bffb8/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6e623452494157585255302f302e6a7067" alt="YouTube Video of my car" data-canonical-src="https://img.youtube.com/vi/nb4RIAWXRU0/0.jpg" style="max-width:100%;"></a></p>
-<h2><a id="user-content-getting-started" class="anchor" href="#getting-started" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Started</h2>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-behaviorial-cloning-project" class="anchor" href="#behaviorial-cloning-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Behaviorial Cloning Project</h1>
+<p><a href="http://www.udacity.com/drive"><img src="https://camo.githubusercontent.com/5b9aa393f43d7bb9cc6277140465f5625f2dae7c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f756461636974792d7364632f6769746875622f736869656c642d6361726e642e737667" alt="Udacity - Self-Driving Car NanoDegree" data-canonical-src="https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg" style="max-width:100%;"></a></p>
+<h2><a id="user-content-overview" class="anchor" href="#overview" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Overview</h2>
+<p>This repository contains starting files for the Behavioral Cloning Project.</p>
+<p>In this project, you will use what you've learned about deep neural networks and convolutional neural networks to clone driving behavior. You will train, validate and test a model using Keras. The model will output a steering angle to an autonomous vehicle.</p>
+<p>We have provided a simulator where you can steer a car around a track for data collection. You'll use image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track.</p>
+<p>We also want you to create a detailed writeup of the project. Check out the <a href="https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/writeup_template.md">writeup template</a> for this project and use it as a starting point for creating your own writeup. The writeup can be either a markdown file or a pdf document.</p>
+<p>To meet specifications, the project will require submitting five files:</p>
+<ul>
+<li>model.py (script used to create and train the model)</li>
+<li>drive.py (script to drive the car - feel free to modify this file)</li>
+<li>model.h5 (a trained Keras model)</li>
+<li>a report writeup file (either markdown or pdf)</li>
+<li>video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)</li>
+</ul>
+<p>This README file describes how to output the video in the "Details About Files In This Directory" section.</p>
+<h2><a id="user-content-creating-a-great-writeup" class="anchor" href="#creating-a-great-writeup" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Creating a Great Writeup</h2>
+<p>A great writeup should include the <a href="https://review.udacity.com/#!/rubrics/432/view">rubric points</a> as well as your description of how you addressed each point.  You should include a detailed description of the code used (with line-number references and code snippets where necessary), and links to other supporting documents or external references.  You should include images in your writeup to demonstrate how your code works with examples.</p>
+<p>All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :).</p>
+<p>You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.</p>
+<h2><a id="user-content-the-project" class="anchor" href="#the-project" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>The Project</h2>
+<p>The goals / steps of this project are the following:</p>
+<ul>
+<li>Use the simulator to collect data of good driving behavior</li>
+<li>Design, train and validate a model that predicts a steering angle from image data</li>
+<li>Use the model to drive the vehicle autonomously around the first track in the simulator. The vehicle should remain on the road for an entire loop around the track.</li>
+<li>Summarize the results with a written report</li>
+</ul>
+<h3><a id="user-content-dependencies" class="anchor" href="#dependencies" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Dependencies</h3>
+<p>This lab requires:</p>
+<ul>
+<li><a href="https://github.com/udacity/CarND-Term1-Starter-Kit">CarND Term1 Starter Kit</a></li>
+</ul>
+<p>The lab enviroment can be created with CarND Term1 Starter Kit. Click <a href="https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md">here</a> for the details.</p>
+<p>The following resources can be found in this github repository:</p>
+<ul>
+<li>drive.py</li>
+<li>video.py</li>
+<li>writeup_template.md</li>
+</ul>
+<p>The simulator can be downloaded from the classroom. In the classroom, we have also provided sample data that you can optionally use to help train your model.</p>
+<h2><a id="user-content-details-about-files-in-this-directory" class="anchor" href="#details-about-files-in-this-directory" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Details About Files In This Directory</h2>
+<h3><a id="user-content-drivepy" class="anchor" href="#drivepy" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>drive.py</code></h3>
+<p>Usage of <code>drive.py</code> requires you have saved the trained model as an h5 file, i.e. <code>model.h5</code>. See the <a href="https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model">Keras documentation</a> for how to create this file using the following command:</p>
+<div class="highlight highlight-source-shell"><pre>model.save(filepath)</pre></div>
+<p>Once the model has been saved, it can be used with drive.py using this command:</p>
+<div class="highlight highlight-source-shell"><pre>python drive.py model.h5</pre></div>
+<p>The above command will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.</p>
+<p>Note: There is known local system's setting issue with replacing "," with "." when using drive.py. When this happens it can make predicted steering values clipped to max/min values. If this occurs, a known fix for this is to add "export LANG=en_US.utf8" to the bashrc file.</p>
+<h4><a id="user-content-saving-a-video-of-the-autonomous-agent" class="anchor" href="#saving-a-video-of-the-autonomous-agent" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Saving a video of the autonomous agent</h4>
+<div class="highlight highlight-source-shell"><pre>python drive.py model.h5 run1</pre></div>
+<p>The fourth argument <code>run1</code> is the directory to save the images seen by the agent to. If the directory already exists it'll be overwritten.</p>
+<div class="highlight highlight-source-shell"><pre>ls run1
+
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_424.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_451.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_477.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_528.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_573.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_618.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_697.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_723.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_749.jpg
+[2017-01-09 16:10:23 EST]  12KiB 2017_01_09_21_10_23_817.jpg
+...</pre></div>
+<p>The image file name is a timestamp when the image image was seen. This information is used by <code>video.py</code> to create a chronological video of the agent driving.</p>
+<h3><a id="user-content-videopy" class="anchor" href="#videopy" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>video.py</code></h3>
+<div class="highlight highlight-source-shell"><pre>python video.py run1</pre></div>
+<p>Create a video based on images found in the <code>run1</code> directory. The name of the video will be name of the directory following by <code>'.mp4'</code>, so, in this case the video will be <code>run1.mp4</code>.</p>
+<p>Optionally one can specify the FPS (frames per second) of the video:</p>
+<div class="highlight highlight-source-shell"><pre>python video.py run1 --fps 48</pre></div>
+<p>The video will run at 48 FPS. The default FPS is 60.</p>
+<h4><a id="user-content-why-create-a-video" class="anchor" href="#why-create-a-video" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Why create a video</h4>
 <ol>
-<li>Install dependencies
-<ul>
-<li>Installing CarND Term2 Starter Kit will give you everything you need. Installation instruction can be found at <a href="https://github.com/udacity/CarND-Term1-Starter-Kit">https://github.com/udacity/CarND-Term1-Starter-Kit</a></li>
-</ul>
-</li>
-<li>Download the Self-Driving Car Simulator
-<ul>
-<li><a href="https://github.com/udacity/self-driving-car-sim">https://github.com/udacity/self-driving-car-sim</a></li>
-</ul>
-</li>
-<li>Download sample training data
-<ul>
-<li><a href="https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip">https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip</a></li>
-</ul>
-</li>
+<li>It's been noted the simulator might perform differently based on the hardware. So if your model drives succesfully on your machine it might not on another machine (your reviewer). Saving a video is a solid backup in case this happens.</li>
+<li>You could slightly alter the code in <code>drive.py</code> and/or <code>video.py</code> to create a video of what your model sees after the image is processed (may be helpful for debugging).</li>
 </ol>
-<h2><a id="user-content-testing-a-trained-model-in-the-simulation" class="anchor" href="#testing-a-trained-model-in-the-simulation" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Testing a Trained Model in the Simulation</h2>
-<ol>
-<li>Start simulation in autonomous mode</li>
-<li>Run the server by typing <code>python drive.py model.json</code></li>
-</ol>
-<h2><a id="user-content-more-info" class="anchor" href="#more-info" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>More Info</h2>
-<p>See <a href="https://github.com/SamSamskies/CarND-Behavioral-Cloning/blob/master/writeup_report.md">writeup_report.md</a> for more info.</p>
 </article>
   </div>
 
@@ -502,7 +569,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.05972s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.10544s from github-fe144-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -526,8 +593,8 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha256-0ZLoD9NuEtMY0oxGaomY68qdIKFaOBIvme3+RGEqA0s=" src="https://assets-cdn.github.com/assets/frameworks-d192e80fd36e12d318d28c466a8998ebca9d20a15a38122f99edfe44612a034b.js"></script>
-    <script async="async" crossorigin="anonymous" integrity="sha256-Xy9NKiLux34bbWcH8ROLCkMBsmV02xh3B0UUD+GmcbA=" src="https://assets-cdn.github.com/assets/github-5f2f4d2a22eec77e1b6d6707f1138b0a4301b26574db18770745140fe1a671b0.js"></script>
+    <script crossorigin="anonymous" integrity="sha256-v7ct8CdSo6IR2gBoxm/aJ1eP5UIOhVppHHPDkQdCuDE=" src="https://assets-cdn.github.com/assets/frameworks-bfb72df02752a3a211da0068c66fda27578fe5420e855a691c73c3910742b831.js"></script>
+    <script async="async" crossorigin="anonymous" integrity="sha256-qB7Jg6diejoIQNDL2B/1Z11ojzckJJ1yQ5xI5uVQKlQ=" src="https://assets-cdn.github.com/assets/github-a81ec983a7627a3a0840d0cbd81ff5675d688f3724249d72439c48e6e5502a54.js"></script>
     
     
     
